@@ -2,4 +2,5 @@ public static void main(String[] args) {
 System.out.print("Hola me llamo Julio");
 int patata = 65535;
 patata/=3;
+patata*=5;
 }
