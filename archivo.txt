@@ -3,5 +3,4 @@ System.out.print("Hola me llamo Julio");
 
 int calabaza = 234567;
 int patata = 65535;
-patata/=3;
 }
